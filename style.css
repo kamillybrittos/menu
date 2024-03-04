@@ -1,0 +1,26 @@
+:root{
+    --cor_botao_clicado:rgb(211, 15, 15);
+    --cor_botao_n_clic:rgb(218, 82, 59);
+    --cor_fundo:rgb(245, 52, 52);
+    --cor_titulo:rgb(236, 59, 14);
+    
+    
+    }
+    body{
+        background-color:var(--cor_fundo);
+    
+    
+    }
+    h1{
+        color:var(--cor_titulo);
+    
+    }
+    .principal{
+        border: rgb(194, 33, 16) 2px;
+        text-align: center;
+        height: 200px;
+        width: 200;
+        border-radius: 200px;
+    
+    
+    }
